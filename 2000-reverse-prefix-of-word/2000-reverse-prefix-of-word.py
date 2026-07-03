@@ -6,14 +6,5 @@ class Solution:
         
         index=word.index(ch)
 
-        for i in range(index+1):
-            arr.append(word[i])
-        
-        ans=""
-
-        while arr:
-            ans += arr.pop()
-        
-        ans+= word[index+1:]
-        return ans
+        return word[:index+1][::-1]+word[index+1:]
         
