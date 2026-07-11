@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sourabhsi001/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sourabhsi001/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/sourabhsi001/DSA/tree/master/1025-divisor-game) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/sourabhsi001/DSA/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/sourabhsi001/DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/sourabhsi001/DSA/tree/master/1025-divisor-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
