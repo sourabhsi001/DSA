@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sourabhsi001/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sourabhsi001/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sourabhsi001/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sourabhsi001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sourabhsi001/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sourabhsi001/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Design
 |  |
 | ------- |
