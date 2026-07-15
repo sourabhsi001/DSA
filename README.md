@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sourabhsi001/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabhsi001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sourabhsi001/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sourabhsi001/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sourabhsi001/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3843-first-element-with-unique-frequency](https://github.com/sourabhsi001/DSA/tree/master/3843-first-element-with-unique-frequency) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabhsi001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sourabhsi001/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sourabhsi001/DSA/tree/master/0290-word-pattern) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabhsi001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sourabhsi001/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sourabhsi001/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/sourabhsi001/DSA/tree/master/3843-first-element-with-unique-frequency) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/sourabhsi001/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sourabhsi001/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sourabhsi001/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Design
 |  |
