@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sourabhsi001/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sourabhsi001/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sourabhsi001/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3843-first-element-with-unique-frequency](https://github.com/sourabhsi001/DSA/tree/master/3843-first-element-with-unique-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sourabhsi001/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabhsi001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sourabhsi001/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/sourabhsi001/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sourabhsi001/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sourabhsi001/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Design
 |  |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/sourabhsi001/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sourabhsi001/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
