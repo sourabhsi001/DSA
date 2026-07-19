@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sourabhsi001/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sourabhsi001/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/sourabhsi001/DSA/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/sourabhsi001/DSA/tree/master/1025-divisor-game) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/sourabhsi001/DSA/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sourabhsi001/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sourabhsi001/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sourabhsi001/DSA/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sourabhsi001/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
