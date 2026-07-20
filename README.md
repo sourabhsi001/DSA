@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/sourabhsi001/DSA/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabhsi001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/sourabhsi001/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sourabhsi001/DSA/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabhsi001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/sourabhsi001/DSA/tree/master/1904-the-number-of-full-rounds-you-have-played) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sourabhsi001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/sourabhsi001/DSA/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/sourabhsi001/DSA/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabhsi001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -167,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sourabhsi001/DSA/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/sourabhsi001/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
