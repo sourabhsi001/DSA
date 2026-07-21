@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sourabhsi001/DSA/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sourabhsi001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sourabhsi001/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sourabhsi001/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/sourabhsi001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -172,11 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sourabhsi001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sourabhsi001/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sourabhsi001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sourabhsi001/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
