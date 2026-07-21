@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sourabhsi001/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/sourabhsi001/DSA/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/sourabhsi001/DSA/tree/master/1025-divisor-game) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/sourabhsi001/DSA/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sourabhsi001/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sourabhsi001/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/sourabhsi001/DSA/tree/master/0367-valid-perfect-square) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
