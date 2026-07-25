@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sourabhsi001/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/sourabhsi001/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sourabhsi001/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/sourabhsi001/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/sourabhsi001/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sourabhsi001/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3884-first-matching-character-from-both-ends](https://github.com/sourabhsi001/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sourabhsi001/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Design
 |  |
