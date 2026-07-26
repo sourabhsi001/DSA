@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sourabhsi001/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sourabhsi001/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/sourabhsi001/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sourabhsi001/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sourabhsi001/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sourabhsi001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/sourabhsi001/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sourabhsi001/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sourabhsi001/DSA/tree/master/0290-word-pattern) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sourabhsi001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/sourabhsi001/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabhsi001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
