@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sourabhsi001/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabhsi001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sourabhsi001/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sourabhsi001/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sourabhsi001/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sourabhsi001/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabhsi001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sourabhsi001/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sourabhsi001/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabhsi001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sourabhsi001/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sourabhsi001/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/sourabhsi001/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sourabhsi001/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/sourabhsi001/DSA/tree/master/2000-reverse-prefix-of-word) |
