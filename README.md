@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sourabhsi001/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sourabhsi001/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sourabhsi001/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sourabhsi001/DSA/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabhsi001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sourabhsi001/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sourabhsi001/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sourabhsi001/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sourabhsi001/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sourabhsi001/DSA/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sourabhsi001/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/sourabhsi001/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sourabhsi001/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3843-first-element-with-unique-frequency](https://github.com/sourabhsi001/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Number Theory
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sourabhsi001/DSA/tree/master/0164-maximum-gap) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sourabhsi001/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
