@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sourabhsi001/DSA/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/sourabhsi001/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sourabhsi001/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sourabhsi001/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sourabhsi001/DSA/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sourabhsi001/DSA/tree/master/0055-jump-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabhsi001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sourabhsi001/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sorting
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sourabhsi001/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/sourabhsi001/DSA/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
