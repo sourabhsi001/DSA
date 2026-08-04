@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sourabhsi001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sourabhsi001/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0290-word-pattern](https://github.com/sourabhsi001/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sourabhsi001/DSA/tree/master/0383-ransom-note) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/sourabhsi001/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sourabhsi001/DSA/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sourabhsi001/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/sourabhsi001/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/sourabhsi001/DSA/tree/master/1025-divisor-game) |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sourabhsi001/DSA/tree/master/0238-product-of-array-except-self) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
