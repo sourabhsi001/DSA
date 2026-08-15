@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/sourabhsi001/DSA/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sourabhsi001/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/sourabhsi001/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sourabhsi001/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sourabhsi001/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/sourabhsi001/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Hash Table
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sourabhsi001/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sourabhsi001/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sourabhsi001/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sourabhsi001/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/sourabhsi001/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Sliding Window
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sourabhsi001/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabhsi001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sourabhsi001/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sourabhsi001/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
 | ------- |
