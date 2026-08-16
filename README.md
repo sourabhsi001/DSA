@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/sourabhsi001/DSA/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/sourabhsi001/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sourabhsi001/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/sourabhsi001/DSA/tree/master/0941-valid-mountain-array) |
 | [1048-longest-string-chain](https://github.com/sourabhsi001/DSA/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/sourabhsi001/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
