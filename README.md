@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/sourabhsi001/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sourabhsi001/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sourabhsi001/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sourabhsi001/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/sourabhsi001/DSA/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/sourabhsi001/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/sourabhsi001/DSA/tree/master/3843-first-element-with-unique-frequency) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/sourabhsi001/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sourabhsi001/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
