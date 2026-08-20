@@ -3,21 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        
-        j=0
-        count=0
-        for i in range(len(nums1)):
-            if nums1[i]==0 and count<n:
-                nums1[i]=nums2[j]
-                j+=1
-                count+=1
+        j=len(nums1)-1
+        for i in nums2:
+            nums1[j]=i
+            j-=1
+            
 
-               
-        
-        nums1.sort()
-        return nums1
-        
+            
+            
+        return nums1.sort()
 
-             
+
+            
+
+
 
         
