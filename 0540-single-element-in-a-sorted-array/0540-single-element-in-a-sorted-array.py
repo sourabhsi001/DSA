@@ -4,12 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        fre={}
-        for i in nums:
-            fre[i]=fre.get(i,0)+1
-        
-        for i in fre:
-            if fre[i]==1:
-                return i
+        if len(nums)-1<1:
+            return nums[0]
+        for i in range(0,len(nums)-1,2):
+            if nums[i]!=nums[i+1]:
+                return nums[i]
 
-        
+        return nums[len(nums)-1]
