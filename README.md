@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sourabhsi001/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sourabhsi001/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sourabhsi001/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sourabhsi001/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sourabhsi001/DSA/tree/master/0367-valid-perfect-square) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sourabhsi001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sourabhsi001/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sourabhsi001/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sourabhsi001/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sourabhsi001/DSA/tree/master/0242-valid-anagram) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sourabhsi001/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sourabhsi001/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sourabhsi001/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sourabhsi001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sourabhsi001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sourabhsi001/DSA/tree/master/1051-height-checker) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sourabhsi001/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
