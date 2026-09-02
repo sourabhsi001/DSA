@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sourabhsi001/DSA/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/sourabhsi001/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/sourabhsi001/DSA/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/sourabhsi001/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sourabhsi001/DSA/tree/master/0066-plus-one) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sourabhsi001/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sourabhsi001/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sourabhsi001/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sourabhsi001/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sourabhsi001/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sourabhsi001/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sourabhsi001/DSA/tree/master/0202-happy-number) |
