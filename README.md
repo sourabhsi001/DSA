@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sourabhsi001/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sourabhsi001/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sourabhsi001/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/sourabhsi001/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/sourabhsi001/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sourabhsi001/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sourabhsi001/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
