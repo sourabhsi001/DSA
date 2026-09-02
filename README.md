@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sourabhsi001/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/sourabhsi001/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/sourabhsi001/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/sourabhsi001/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sourabhsi001/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sourabhsi001/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sourabhsi001/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sourabhsi001/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sourabhsi001/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sourabhsi001/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sourabhsi001/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sourabhsi001/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sourabhsi001/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sourabhsi001/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sourabhsi001/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sourabhsi001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sourabhsi001/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sourabhsi001/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sourabhsi001/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sourabhsi001/DSA/tree/master/0219-contains-duplicate-ii) |
