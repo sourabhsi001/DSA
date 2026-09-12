@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sourabhsi001/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sourabhsi001/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sourabhsi001/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sourabhsi001/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sourabhsi001/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sourabhsi001/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sourabhsi001/DSA/tree/master/0202-happy-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sourabhsi001/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sourabhsi001/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/sourabhsi001/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/sourabhsi001/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sourabhsi001/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sourabhsi001/DSA/tree/master/0344-reverse-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sourabhsi001/DSA/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sourabhsi001/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sourabhsi001/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sourabhsi001/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sourabhsi001/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sourabhsi001/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sourabhsi001/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sourabhsi001/DSA/tree/master/0287-find-the-duplicate-number) |
