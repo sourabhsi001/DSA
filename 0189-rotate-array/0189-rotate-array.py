@@ -1,17 +1,10 @@
-class Solution(object):
-    def rotate(self, nums, k):
+class Solution:
+    def rotate(self, nums: list[int], k: int) -> None:
         """
-        :type nums: List[int]
-        :type k: int
-        :rtype: None Do not return anything, modify nums in-place instead.
+        Do not return anything, modify nums in-place instead.
+
         """
-        n=len(nums)
-        k%=n
-
-        nums.reverse()
-        nums[:k]=reversed(nums[:k])
-        nums[k:]=reversed(nums[k:])
-        return nums
-
-
+        k=k%len(nums)
+        nums[:]=nums[-k:]+nums[:-k]
+        
         
