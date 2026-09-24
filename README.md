@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabhsi001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sourabhsi001/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/sourabhsi001/DSA/tree/master/0692-top-k-frequent-words) |
+| [0713-subarray-product-less-than-k](https://github.com/sourabhsi001/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0819-most-common-word](https://github.com/sourabhsi001/DSA/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/sourabhsi001/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sourabhsi001/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sourabhsi001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sourabhsi001/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/sourabhsi001/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabhsi001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sourabhsi001/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sourabhsi001/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sourabhsi001/DSA/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sourabhsi001/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sourabhsi001/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/sourabhsi001/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sourabhsi001/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sourabhsi001/DSA/tree/master/2594-minimum-time-to-repair-cars) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sourabhsi001/DSA/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/sourabhsi001/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/sourabhsi001/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sourabhsi001/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
