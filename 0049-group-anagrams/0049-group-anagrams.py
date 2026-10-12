@@ -1,9 +1,5 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
+class Solution:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         fre={}
 
         for i in strs:
@@ -12,3 +8,5 @@ class Solution(object):
                 fre[key]=[]
             fre[key].append(i)
         return list(fre.values())
+
+
