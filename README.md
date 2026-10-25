@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sourabhsi001/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sourabhsi001/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sourabhsi001/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sourabhsi001/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sourabhsi001/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sourabhsi001/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sourabhsi001/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sourabhsi001/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sourabhsi001/DSA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/sourabhsi001/DSA/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sourabhsi001/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sourabhsi001/DSA/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sourabhsi001/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sourabhsi001/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bucket Sort
