@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sourabhsi001/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/sourabhsi001/DSA/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/sourabhsi001/DSA/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/sourabhsi001/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sourabhsi001/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0819-most-common-word](https://github.com/sourabhsi001/DSA/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/sourabhsi001/DSA/tree/master/0905-sort-array-by-parity) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sourabhsi001/DSA/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sourabhsi001/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sourabhsi001/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/sourabhsi001/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sourabhsi001/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sourabhsi001/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sourabhsi001/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
